@@ -17,9 +17,9 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 ```javascript
 pragma solidity ^0.8.4;
 
-contract HelloWorld {
-    function sayHello() public pure returns (string memory) {
-        return "Hello World!";
+contract Solidity {
+    function saySolidity() public pure returns (string memory) {
+        return "Solidity!";
     }
 }
 

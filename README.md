@@ -19,7 +19,7 @@ pragma solidity ^0.8.4;
 
 contract Solidity {
     function saySolidity() public pure returns (string memory) {
-        return "Solidity!";
+        return "Solidity";
     }
 }
 

@@ -1,4 +1,4 @@
-# Push
+# MyToken
 
 A simple implementation of a token on the blockchain. It allows users to mint and burn tokens.
 
@@ -17,19 +17,19 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 ```javascript
 pragma solidity ^0.8.4;
 
-contract Solidity {
-    function saySolidity() public pure returns (string memory) {
-        return "Solidity";
+contract MyToken {
+    function sayMyToken() public pure returns (string memory) {
+        return "MySolidity";
     }
 }
 
 ```
 
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile Solidity.sol" button.
+To compile the code, click on the "MyToken Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile MyToken.sol" button.
 
-Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Solidity" contract from the dropdown menu, and then click on the "Deploy" button.
+Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it by calling the sayHello function. Click on the "Solidity" contract in the left-hand sidebar, and then click on the "saySolidity" function. Finally, click on the "transact" button to execute the function and retrieve the "Solidity" message.
+Once the contract is deployed, you can interact with it by calling the sayMyToken function. Click on the "MyToken" contract in the left-hand sidebar, and then click on the "sayMyToken" function. Finally, click on the "transact" button to execute the function and retrieve the "MyToken" message.
 
 ## Authors
 

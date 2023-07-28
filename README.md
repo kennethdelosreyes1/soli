@@ -19,7 +19,7 @@ pragma solidity ^0.8.4;
 
 contract MyToken {
     function sayMyToken() public pure returns (string memory) {
-        return "MySolidity";
+        return "MyToken";
     }
 }
 

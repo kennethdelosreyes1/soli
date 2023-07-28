@@ -15,7 +15,7 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., Solidity.sol). Copy and paste the following code into the file:
 
 ```javascript
-pragma solidity ^0.8.4;
+pragma solidity ^0.8.18;
 
 contract MyToken {
     function sayMyToken() public pure returns (string memory) {

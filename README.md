@@ -1,4 +1,4 @@
-# Simple Contract for Solidity
+# Push
 
 A simple implementation of a token on the blockchain. It allows users to mint and burn tokens.
 
